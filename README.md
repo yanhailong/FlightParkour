@@ -3,5 +3,4 @@ The gameplay of this game is the same as the traditional parkour game. The playe
 
 ![Pandao editor.md](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png "Pandao editor.md")
 ##  If you have any questions, please contact us by email.
-### Phone: +8615923974474
-### E-mail Address：819919740@qq.com
+### E-mail Address：xli163872@gmail.com
